@@ -1,0 +1,28 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="20" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="20.000000000000114" scrolly="19.999999999999773" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="show" id="kd%/p|7$g].jGiaQuVNp" x="130" y="10">
+      <value name="VALUE">
+        <shadow type="objectList" id="J0[eGlYR|)KI~heMGmUj">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="groupList" id="5Cwe,Pb}ChEOo#t$(FO/">
+          <field name="FIELDNAME">sturgeon</field>
+        </block>
+      </value>
+      <next>
+        <block type="hide" id="H$w:eqba.DifL#Vv~+qK">
+          <value name="VALUE">
+            <shadow type="objectList" id=";,xp25jn~)`-Y5,joQr2">
+              <field name="FIELDNAME">indicator_invis_plane</field>
+            </shadow>
+            <block type="groupList" id="NbsZJ94?hGbBBVId6@$B">
+              <field name="FIELDNAME">indicator_group</field>
+            </block>
+          </value>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="903.5999999999999" viewport-y="37" viewport-w="614.4" viewport-h="369.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
